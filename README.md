@@ -34,8 +34,8 @@
 
 ![Cantonese](https://img.shields.io/badge/Cantonese-FF0?style=for-the-badge&logoColor=white)
 ![English](https://img.shields.io/badge/English-FFF?style=for-the-badge&logoColor=white)
-![Cantonese](https://img.shields.io/badge/Mandarin-F00?style=for-the-badge&logoColor=white)
-![Cantonese](https://img.shields.io/badge/German-FC0?style=for-the-badge&logoColor=white)
+![Mandarin](https://img.shields.io/badge/Mandarin-F00?style=for-the-badge&logoColor=white)
+![German](https://img.shields.io/badge/German-FC0?style=for-the-badge&logoColor=white)
 
 ## Statistics
 
