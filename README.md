@@ -1,6 +1,6 @@
 # Hello, I'm Timothy
 
-## I'm open to work! Have a look at my résumé [here](https://github.com/tinnamchoi/resumes/blob/master/Resume.pdf). 
+## I'm open to work! Have a look at my résumé / CV [here](https://github.com/tinnamchoi/resumes/blob/master/Resume.pdf). 
 
 ### Contacts
 
