@@ -1,4 +1,4 @@
-## I'm open to work and [commissions](https://www.fiverr.com/tinnamchoi)! Have a look at my résumé / CV [here](https://github.com/tinnamchoi/resumes/blob/master/resume.pdf). 
+## I'm open to work! Have a look at my résumé / CV [here](https://github.com/tinnamchoi/resumes/blob/master/resume.pdf). 
 
 ### Contacts
 
