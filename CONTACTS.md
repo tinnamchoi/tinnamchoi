@@ -6,4 +6,4 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/398756767510691852)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tinnamchoi/)
 
-### I'm open to work and [commissions](https://www.fiverr.com/tinnamchoi)! Have a look at my résumé / CV [here](https://github.com/tinnamchoi/resumes/blob/master/resume.pdf). 
+### I'm open to work! Have a look at my résumé / CV [here](https://github.com/tinnamchoi/resumes/blob/master/resume.pdf). 
