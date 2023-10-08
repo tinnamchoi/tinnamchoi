@@ -15,5 +15,6 @@
 
 ### Statistics
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/tinnamchoi?theme=dark&font=Rubik&ext=contest)  
 ![Timothy's GitHub stats](https://github-readme-stats-tinnamchoi.vercel.app/api?username=tinnamchoi&count_private=false&show_icons=true&theme=github_dark&cache_seconds=14400&show_icons)  
 ![Top Langs](https://github-readme-stats-tinnamchoi.vercel.app/api/top-langs/?username=tinnamchoi&theme=github_dark&cache_seconds=14400&show_icons&langs_count=10&layout=compact)
